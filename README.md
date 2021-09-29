@@ -1,4 +1,4 @@
-# Hot to setup VSCode to build LaTeX
+# How to setup VSCode to build LaTeX
 
 - Install Miktex `https://miktex.org/download`
 - Install Pearl `https://strawberryperl.com`
